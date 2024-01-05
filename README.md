@@ -60,7 +60,7 @@ Use the default gateway in the browser to reach the device setup menu. Enter the
  <br />
 <br />
  Lastly, I recorded each laptop's MAC address and restricted access to the network via MAC filtering.<br/>
-<img src="https://i.imgur.com/Oqnu4FH.png"="80%" width="80%" alt="Home Network Steps"/>
+<img src="https://i.imgur.com/AhYxA02.png"="80%" width="80%" alt="Home Network Steps"/>
  <br />
 <br />
 </p>
