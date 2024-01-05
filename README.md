@@ -55,7 +55,7 @@ Use the default gateway in the browser to reach the device setup menu. Enter the
 <img src="https://i.imgur.com/YJLXZZC.png"="80%" width="80%" alt="Home Network Steps"/>
  <br />
 <br />
- Then I configure the guest wifi settings.<br/>
+ I configured the SSID and authentication type on each laptop's wireless interface.<br/>
 <img src="https://i.imgur.com/ZLTrwfR.png"="80%" width="80%" alt="Home Network Steps"/>
  <br />
 <br />
