@@ -21,6 +21,11 @@ This project uses a Cisco packet tracer environment to build a basic functional 
 <img src="https://i.imgur.com/CEsHkQ3.png"="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
+Configure DHCP on the pc.<br/>
+<img src="https://i.imgur.com/EC47jD7.png"="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Use the default gateway in the browser to reach the device setup menu. Enter in the default password for access and then change the password.<br/>
+<img src="https://i.imgur.com/RwDacd9.png"="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
