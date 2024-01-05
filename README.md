@@ -1,7 +1,7 @@
 <h1>Home Network</h1>
 
 <h2>Description</h2>
-This project uses a Cisco packet tracer environment to build a basic functional home network with configured devices. 
+This project uses a Cisco packet tracer environment to build a basic functional home network with configured devices. I limit the number of devices that can be used on the network, set up a guest network, enable MAC address filtering, and implement custom wireless configurations for the network.
 <br />
 
 
