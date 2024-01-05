@@ -34,5 +34,22 @@ Use the default gateway in the browser to reach the device setup menu. Enter in 
  <img src="https://i.imgur.com/Fz8q17g.png"="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
+ Manually add the server.<br/>
+<img src="https://i.imgur.com/HHUGDPW.png"="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+ Manually add the printer.<br/>
+<img src="https://i.imgur.com/UVguieI.png"="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+ I then needed to make adjustments to make the network more secure I started by disabling the broadcast SSID, adding a passkey, and changing the wireless security  .<br/>
+<img src="https://i.imgur.com/dy7hzE5.png"="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/3VN6KOK.png"="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+ Next, I needed to configure the laptops to join the network.<br/>
+<img src=""="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
 </p>
 
