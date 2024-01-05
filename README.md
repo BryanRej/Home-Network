@@ -39,7 +39,7 @@ Use the default gateway in the browser to reach the device setup menu. Enter in 
  <br />
 <br />
  Manually add the printer.<br/>
-<img src="https://i.imgur.com/UVguieI.png"="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UVguieI.png"="80%" width="80%" alt="Home Network Steps"/>
  <br />
 <br />
  I then needed to make adjustments to make the network more secure I started by disabling the broadcast SSID, adding a passkey, and changing the wireless security  .<br/>
@@ -47,8 +47,12 @@ Use the default gateway in the browser to reach the device setup menu. Enter in 
  <img src="https://i.imgur.com/3VN6KOK.png"="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
- Next, I needed to configure the laptops to join the network.<br/>
-<img src=""="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Next, I needed to configure the laptops to join the network I started by powering off each laptop and replacing their current wireless card with a 2.4GHz compatible wireless network card for each laptop  .<br/>
+<img src="https://i.imgur.com/hm6zn4Q.png"="80%" width="80%" alt="Home Network Steps"/>
+ <br />
+<br />
+ Then I configure the guest wifi settings.<br/>
+<img src=""="80%" width="80%" alt="Home Network Steps"/>
  <br />
 <br />
 </p>
