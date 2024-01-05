@@ -52,7 +52,15 @@ Use the default gateway in the browser to reach the device setup menu. Enter in 
  <br />
 <br />
  Then I configure the guest wifi settings.<br/>
-<img src=""="80%" width="80%" alt="Home Network Steps"/>
+<img src="https://i.imgur.com/YJLXZZC.png"="80%" width="80%" alt="Home Network Steps"/>
+ <br />
+<br />
+ Then I configure the guest wifi settings.<br/>
+<img src="https://i.imgur.com/ZLTrwfR.png"="80%" width="80%" alt="Home Network Steps"/>
+ <br />
+<br />
+ Lastly, I recorded each laptop's MAC address and restricted access to the network via MAC filtering.<br/>
+<img src="https://i.imgur.com/Oqnu4FH.png"="80%" width="80%" alt="Home Network Steps"/>
  <br />
 <br />
 </p>
