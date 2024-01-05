@@ -27,5 +27,12 @@ Configure DHCP on the pc.<br/>
 <br />
 Use the default gateway in the browser to reach the device setup menu. Enter in the default password for access and then change the password.<br/>
 <img src="https://i.imgur.com/RwDacd9.png"="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+ Configure the server and record its MAC address.<br/>
+<img src="https://i.imgur.com/nktSAMR.png"="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/Fz8q17g.png"="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
 </p>
 
